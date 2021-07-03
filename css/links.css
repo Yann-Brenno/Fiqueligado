@@ -46,9 +46,14 @@ a:hover {
 
 h1 {
 	color: #8a2be2;
-	font-family: cursive;
+	font-family: Impact;
+	text-align: center;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,0 0 0.2em #87F
 }
 
+h1:hover {
+	color: #000000;
+}
 footer {
     position: absolute;
     bottom: 0;
